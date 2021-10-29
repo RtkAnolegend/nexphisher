@@ -36,7 +36,7 @@ apt update ; apt install git -y ; git clone git://github.com/htr-tech/nexphisher
 <img width="50%" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/nexphisher1.png"/>
 <img width="46%" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/nexphisher2.png"/>
 
-### <<< If you copy , Then Give me The Credits >>>
+### 
 
 ## Features :
 #### [+] Latest Login Pages !
@@ -45,7 +45,8 @@ apt update ; apt install git -y ; git clone git://github.com/htr-tech/nexphisher
 
 
 ## Find Me on :
-[![Github](https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github)](https://github.com/htr-tech)
+[![Github](https://img.shields.io/badge/Github-RTK--97-green?style=for-the-badge&logo=github)](https://github.com/RtkAnolegend)
 [![Instagram](https://img.shields.io/badge/IG-%40rtk.97-red?style=for-the-badge&logo=instagram)](https://https://www.instagram.com/rtk_97/)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/thakurritik.singh.97)
+[![Messenger](https://img.shields.io/badge/Chat-whatsapp-green?style=for-the-badge&logo=whatsapp)](9729418232)
 
