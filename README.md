@@ -21,7 +21,7 @@
 
 * `apt update`
 * `apt install git -y`
-* `https://rtkanolegend.github.io/nexphisher/`
+* `git clone https://rtkanolegend.github.io/nexphisher/`
 * `cd nexphisher`
 #### > SETUP : `bash setup`
 #### > SETUP [TERMUX] : `bash tmux_setup`
